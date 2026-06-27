@@ -1,0 +1,5 @@
+# TaskList V2 — Python dependencies
+# Core UI: tkinter is part of the standard library (no pip install needed)
+# Only stdlib is used in Milestones 1-4.
+# Uncomment below if you add Pillow for icons in Milestone 5.
+# Pillow>=10.0.0
