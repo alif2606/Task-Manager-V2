@@ -7,7 +7,7 @@ Sits quietly on your wallpaper. No taskbar icon. No distractions.
 
 ## Screenshot
 
-> ![Uploading image.png…]()
+> ![Main View](./main.png)
 
 
 ---
