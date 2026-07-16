@@ -7,7 +7,8 @@ Sits quietly on your wallpaper. No taskbar icon. No distractions.
 
 ## Screenshot
 
-> *(add a screenshot here after first run)*
+> ![Uploading image.png…]()
+
 
 ---
 
